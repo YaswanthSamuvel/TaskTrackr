@@ -1,0 +1,14 @@
+Hi,
+I am Yaswanth Samuvel. Aspiring Programmer | Class 12 Graduate | Skilled in C, C++, Python, MySQL | Eager to Learn
+
+About Me :
+- I’m a passionate and motivated student who has completed Class 12 (CS-Maths, CBSE) with a strong foundation in Computer Science. I have hands-on experience with Python, MySQL, and 
+  Computer Networks, all introduced at the school level.
+- As part of my learning journey, I developed an E-commerce interface project using Python (Tkinter, File Handling) and MySQL (mysql-connector), 
+  which helped me understand how software components interact in real applications.
+- I also completed a 30-day online course in HTML and CSS, through which I created a personal website and cloned the Netflix landing page for practice. 
+- Currently, I'm learning Java through YouTube and project-based practice.
+- Additionally, I’m pursuing the B.Sc. in Data Science program offered by IIT Madras, consistently scoring well in assignments and have successfully qualified for the Qualifier Exam.
+- I’m now actively looking for internship opportunities where I can grow my skills, contribute meaningfully, and learn from real-world projects.
+  I'm especially interested in data science, software development, and web technologies.
+- Hands-on experience in Computer Hardware – assembling, and basic maintenance .
